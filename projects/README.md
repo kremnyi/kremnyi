@@ -1,6 +1,6 @@
 # Project case studies
 
-Thirteen case studies by [Bohdan Kremnyi](https://kremnyi.com/). Canonical pages live on kremnyi.com.
+Seventeen case studies by [Bohdan Kremnyi](https://kremnyi.com/). Canonical pages live on kremnyi.com.
 
 - [Approck: marketplace, acquisition operations, and forecasting](approck-marketplace-fund.md) — Product & Growth Manager owning marketplace delivery, acquisition operations, and internal tools, with hands-on implementation and developer coordination.
 - [Medical ERP](medical-erp.md) — Large B2B delivery from concept through scale for a medical ERP product.
@@ -15,3 +15,7 @@ Thirteen case studies by [Bohdan Kremnyi](https://kremnyi.com/). Canonical pages
 - [Dating & events Telegram platform](telegram-dating-events-platform.md) — Dating and local-events product built as a Telegram bot with a full Telegram WebApp (Mini App) client and a companion web app.
 - [AI medical-imaging app](ai-medical-imaging.md) — Medical product using an ML pipeline to analyze joint X-ray imagery, delivered directly inside the client's engineering workflow.
 - [Expense & receipt digitization app](expense-receipt-digitization-app.md) — Finance app for the Baltic market: receipt capture, digitization, cost reports, and VAT handling for business users on iOS and Android.
+- [Language-learning iOS/Android app](language-learning-app.md) — Authors publish and reorder audio/video lessons from an admin UI without resetting learner progress on iOS and Android.
+- [Insurance surveys & report automation](insurance-survey-reporting.md) — Insurance surveys where an answer can hide whole sections, then generate a PDF from what remains.
+- [Investment research subscription platform](investment-research-platform.md) — Investor dashboard with free research screens and a Stripe paywall for premium data.
+- [AI greeting-card product](ai-greeting-card-product.md) — Greeting-card generator that keeps the original prompt, four image options, and an order if the buyer leaves before adding contact details.

@@ -1,14 +1,17 @@
 ---
 title: "Better Meeting: macOS recording and local transcription"
+url: "https://kremnyi.com/projects/better-meeting"
 description: "Independent SwiftUI macOS app adapted from GivenFLY’s Better Meeting, with on-device transcription, recoverable processing, and Homebrew releases."
 author: "Bohdan Kremnyi"
 ---
 
 # Better Meeting: macOS recording and local transcription
 
+> Published at [kremnyi.com/projects/better-meeting](https://kremnyi.com/projects/better-meeting).
+
 I built and released a native Swift/SwiftUI adaptation of [GivenFLY’s Better Meeting](https://github.com/GivenFLY/better-meeting). It records meetings from the macOS menu bar, transcribes them on device, and keeps the recording and review files together in one folder per meeting.
 
-[Source code](https://github.com/kremnyi/better-meeting) · [Download for macOS](https://github.com/kremnyi/better-meeting/releases/latest)
+[Source code](https://github.com/kremnyi/better-meeting-menubar) · [Download for macOS](https://github.com/kremnyi/better-meeting-menubar/releases/latest)
 
 ## Recording and processing
 
