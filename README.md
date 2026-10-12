@@ -4,7 +4,7 @@ Technical Product & Growth Manager. Hybrid PM: I ship code, run ops, and close d
 
 **More about me:** [kremnyi.com](https://kremnyi.com)
 
-**Reach me:** [LinkedIn](https://linkedin.com/in/kremnyi) · [Email](mailto:b.kremnyi@gmail.com) · [Telegram](https://t.me/kremnyi)
+**Reach me:** [LinkedIn](https://linkedin.com/in/kremnyi) · [Email](mailto:bohdan@kremnyi.com) · [Telegram](https://t.me/kremnyi)
 
 ## Knowledge base
 

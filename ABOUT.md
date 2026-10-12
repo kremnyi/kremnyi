@@ -40,5 +40,5 @@ Computer Science B.Sc. and M.Sc. from Poltava National Technical University, wit
 
 - [Portfolio](https://kremnyi.com/)
 - [LinkedIn](https://linkedin.com/in/kremnyi)
-- [Email](mailto:b.kremnyi@gmail.com)
+- [Email](mailto:bohdan@kremnyi.com)
 - [Telegram](https://t.me/kremnyi)
