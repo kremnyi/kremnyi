@@ -22,12 +22,14 @@ I orchestrate AI agents. I have written 3,800+ task specs for human teams, and t
 
 ## Background
 
-Computer Science B.Sc. and M.Sc. from Poltava National Technical University, with MBA coursework in Business Administration at ISMA University of Applied Sciences. Credentials include Google Project Management, Professional Scrum Master, IBM Generative AI for Project Managers, Agile with Atlassian Jira, AWS Cloud Practitioner Essentials, Microsoft Applied Skills (Azure), Google Analytics and Google Ads, and Anthropic AI Fluency. I started as a web developer: freelancing on Upwork from 2017 to 2021 (25 jobs, 400+ billed hours, 100% Job Success Score, clients across the US, UK, EU, Canada, Colombia, and Israel) and building websites for a Canadian web agency.
+Computer Science B.Sc. and M.Sc. from Poltava National Technical University, with MBA coursework in Business Administration at ISMA University of Applied Sciences. Credentials include Google Project Management, Professional Scrum Master, IBM Generative AI for Project Managers, Agile with Atlassian Jira, AWS Cloud Practitioner Essentials, Microsoft Applied Skills (Azure), Google Analytics and Google Ads, and Anthropic AI Fluency. I started as a web developer: freelancing on Upwork from 2017 to 2021 (25 jobs, 400+ billed hours, 100% Job Success Score, clients across the US, UK, EU, Canada, Colombia, and Israel) and, from 2018 to 2021, as the remote web developer for PRTS Media, a Montreal web agency, working directly with its CEO.
 
 ## Open for
 
-- **Roles:** Technical product, growth and delivery leadership in teams where product, ops and engineering overlap.
+- **Roles:** Technical product, growth and delivery leadership in teams where product, ops and engineering overlap. Authorized to work in Canada.
 - **Projects:** AI & automation for companies: agent workflows, LLM pipelines and internal tools that run on your real data, CRM, Jira and analytics.
+
+Role pages: [Product Builder](https://kremnyi.com/roles/product-builder) · [Technical Project & Program Manager](https://kremnyi.com/roles/technical-project-manager) · [Fractional COO](https://kremnyi.com/roles/fractional-coo) · [AI & automation](https://kremnyi.com/roles/ai-automation)
 
 ## Verified scale
 
