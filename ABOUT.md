@@ -26,7 +26,7 @@ Computer Science B.Sc. and M.Sc. from Poltava National Technical University, wit
 
 ## Open for
 
-- **Roles:** Technical product, growth and delivery leadership in teams where product, ops and engineering overlap. Authorized to work in Canada.
+- **Roles:** Technical product, growth and delivery leadership in teams where product, ops and engineering overlap. Authorized to work in Canada & EU.
 - **Projects:** AI & automation for companies: agent workflows, LLM pipelines and internal tools that run on your real data, CRM, Jira and analytics.
 
 Role pages: [Product Builder](https://kremnyi.com/roles/product-builder) · [Technical Project & Program Manager](https://kremnyi.com/roles/technical-project-manager) · [Fractional COO](https://kremnyi.com/roles/fractional-coo) · [AI & automation](https://kremnyi.com/roles/ai-automation)
